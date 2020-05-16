@@ -1,0 +1,24 @@
+{
+  "biodata": [
+    {
+      "id": 1,
+      "nama": "Zen",
+      "alamat": "Samarinda"
+    },
+    {
+      "id": 2,
+      "nama": "Yani",
+      "alamat": "Samarinda"
+    },
+    {
+      "nama": "zen",
+      "alamat": "Loa Janan",
+      "id": 3
+    },
+    {
+      "nama": "sepeda",
+      "alamat": "tenggarong",
+      "id": 4
+    }
+  ]
+}
