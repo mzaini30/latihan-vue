@@ -1,1 +1,0 @@
-json-server --watch database.json --port 7171

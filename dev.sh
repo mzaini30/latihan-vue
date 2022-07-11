@@ -1,1 +1,0 @@
-bash app/pug.sh & bash app/json.sh
