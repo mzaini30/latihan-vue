@@ -18,6 +18,7 @@ You can learn more about Take Over mode [here](https://github.com/johnsoncodehk/
 <!-- blog start -->
 ## Blog
 
+- [Mengatasi Bun Error Illegal Instruction](https://github.zenia.my.id/tulisan/bun)
 - [Cara Enkripsi File](https://github.zenia.my.id/tulisan/enkripsi)
 - [Auto Sisipkan Blog di README](https://github.zenia.my.id/tulisan/readme)
 <!-- blog end -->
